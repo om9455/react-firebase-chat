@@ -37,10 +37,7 @@ const Chat = () => {
           <div className="texts">
             <p>
               Lorem, ipsum dolor sit amet Lorem, ipsum dolor sit amet
-              consectetur adipisicing elit. Illum officiis quasi dolores minus
-              perspiciatis ex, soluta, autem quibusdam quis temporibus laborum
-              dolorem explicabo consequuntur maxime accusantium maiores quidem
-              excepturi sed?
+              consectetur adipisicing elit. 
             </p>
             <span>1 min ago</span>
           </div>
